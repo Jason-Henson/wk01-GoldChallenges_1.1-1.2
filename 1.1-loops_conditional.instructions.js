@@ -8,3 +8,22 @@
 */
 
 //NOTE: Write your code below and push back to your github branch.  SUBMIT YOUR GITHUB URL IN CANVAS
+
+function count() {
+    let i;
+    let x = -1; 
+    for (i = 0; i < 11; i++) {
+        x = x + 1;
+        callback(x); 
+        //console.log(i); 
+    }; 
+};
+// 1.1 Step 2 
+function callback(input){
+    if (input % 2 == 0) {
+        console.log(`${input} is even.`);
+    } else {
+        console.log(`${input} is odd.`);
+    }
+}
+count()

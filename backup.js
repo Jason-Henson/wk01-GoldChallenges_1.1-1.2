@@ -7,14 +7,16 @@
 */
 
 //NOTE: Write your code below and push back to your github branch.  SUBMIT YOUR GITHUB URL IN CANVAS
-
-let movie = [ // start movie array 
+/*
+let movie = [
     'Coming to America',
-    '1h 57mim', 
-    [  {name: 'Eddie Murphy',  
+    '1h 57mim',
+    cast[]
+        Eddie Murphy: 
         age: 55,
         countryOfOrigin: 'USA',
-        },        
+        },
+        
         {name: 'Arsenio Hall',
         age: 53,
         countryOfOrigin: 'USA',
@@ -45,8 +47,8 @@ let movie = [ // start movie array
         {name: 'Allison Dean',
         age: 42,
         countryOfOrigin,}
-    ], // end of cast array 
-    [
+    }, // end of cast array 
+    chracters[
         {name: 'Prince Akeem',
         actor: 'Eddie Murphy',
         age: 25,
@@ -121,8 +123,5 @@ let movie = [ // start movie array
         age: 20,
         }        
     ] // end of cast array
-
-
-]// end movie array 
-
-console.log(movie)
+    */
+]
